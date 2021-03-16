@@ -5,7 +5,7 @@
 3. [coming soon] Might add the Auto Trade Via cookie method later on if i am not lazy
 4. [coming soon] finish up the api
 5. [coming soon] fuck ur mom obv
-6. token logging for the weebs
+6. [coming soon] token logging for the weebs
 ```
 
 # Cookie-Logger
