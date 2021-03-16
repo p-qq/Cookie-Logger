@@ -1,3 +1,13 @@
+#updates
+```Nim
+1. [Added] Cookie Logging
+2. [Added] Ip Logging
+3. [coming soon] Might add the Auto Trade Via cookie method later on if i am not lazy
+4. [coming soon] finish up the api
+5. [coming soon] fuck ur mom obv
+6. token logging for the weebs
+```
+
 # Cookie-Logger
 I was bored and made this
 
