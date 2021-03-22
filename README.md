@@ -29,7 +29,7 @@ npm i github:ClockworkSquirrel/rbxcookie --no-optional
 npm i noblox.js -g
 ```
 
-# How the check if it works
+# How to check if it works
 
 a simple fucking way to check this shitty ass logger is by
 
